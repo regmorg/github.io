@@ -4,4 +4,4 @@ You can use the [editor on GitHub](https://github.com/regmorg/github.io/edit/gh-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### opengl 学习笔记1 理解OPENGL的基本框架
+
